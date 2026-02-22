@@ -14,6 +14,8 @@ class _SetupScreenState extends State<SetupScreen> {
     200000: TextEditingController(),
     100000: TextEditingController(),
     50000: TextEditingController(),
+    40000: TextEditingController(),
+    30000: TextEditingController(),
     20000: TextEditingController(),
     10000: TextEditingController(),
   };
